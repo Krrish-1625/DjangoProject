@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'KS-Django-github'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE906091269B4C518519B0872CCA2D4A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47F12F48EF174CCF8B1E9429FB3FDC91 }}
